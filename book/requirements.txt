@@ -1,0 +1,10 @@
+decorator==5.0.9
+ipywidgets
+jupyter-book
+matplotlib==3.5.1
+numpy
+requests
+scikit-learn
+scipy
+torch
+xkcd

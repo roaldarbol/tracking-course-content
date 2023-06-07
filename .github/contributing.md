@@ -1,3 +1,4 @@
+# Contributing
 ## Environment Setup
 
 1. We use [Poetry](https://python-poetry.org/docs/#installation) for managing virtual environments and dependencies.

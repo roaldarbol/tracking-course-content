@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 01_Conditions
+chapters:
+- file: 01_Recording/01_Conditions
+- file: 02_Tracking/01_Overview
+- file: 03_Analysing/01_Overview
+  sections:
+  - file: 03_Analysing/02_notebooks
