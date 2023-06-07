@@ -1,7 +1,7 @@
 API
 ===
 
-.. automodule:: pythontemplate
+.. automodule:: trackingcourse
    :members:
    :undoc-members:
    :show-inheritance:
